@@ -6,7 +6,7 @@ Componente avaliativo do 2 trimestre
 
 <ul>
   
-  <li> -maioritariamente finalizado com o uso dos
+  <li> maioritariamente finalizado com o uso dos
 curso da alura </li>
 
 <li> Visualmente organizado e simples </li>
